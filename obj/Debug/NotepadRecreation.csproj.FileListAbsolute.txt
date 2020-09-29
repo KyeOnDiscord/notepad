@@ -1,0 +1,10 @@
+C:\Users\ProMa\source\repos\NotepadRecreation\bin\Debug\notepad.exe.config
+C:\Users\ProMa\source\repos\NotepadRecreation\bin\Debug\notepad.exe
+C:\Users\ProMa\source\repos\NotepadRecreation\bin\Debug\notepad.pdb
+C:\Users\ProMa\source\repos\NotepadRecreation\obj\Debug\NotepadRecreation.csprojAssemblyReference.cache
+C:\Users\ProMa\source\repos\NotepadRecreation\obj\Debug\NotepadRecreation.Form1.resources
+C:\Users\ProMa\source\repos\NotepadRecreation\obj\Debug\NotepadRecreation.Properties.Resources.resources
+C:\Users\ProMa\source\repos\NotepadRecreation\obj\Debug\NotepadRecreation.csproj.GenerateResource.cache
+C:\Users\ProMa\source\repos\NotepadRecreation\obj\Debug\NotepadRecreation.csproj.CoreCompileInputs.cache
+C:\Users\ProMa\source\repos\NotepadRecreation\obj\Debug\notepad.exe
+C:\Users\ProMa\source\repos\NotepadRecreation\obj\Debug\notepad.pdb
